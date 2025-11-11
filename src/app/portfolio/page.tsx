@@ -24,6 +24,9 @@ const Portfolio: NextPage = () => {
               <button type="button" data-filter="wordpress">
                 Wordpress
               </button>
+              <button type="button" data-filter="dashboard-design">
+                Dashboard Design
+              </button>
             </div>
           </div>
           <div className="row">
@@ -112,7 +115,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/6.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Dashboard Design</h4>
                   <div className="icon">
                     <i className="fa fa-search" />
                   </div>
